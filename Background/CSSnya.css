@@ -1,0 +1,17 @@
+div{
+
+width: 80%;
+margin: 0 auto;
+height: 100px;
+}
+.bgcolor { background-color:#ff4533; }
+.bgimage { background-image:url("batako.png"); }
+.bgposition{
+height: 350px;
+background: url("logo.png") #000000 no-repeat left;
+}
+
+
+.gradient1 { background:linear-gradient(to right, rgb(255, 255, 255), rgb(4, 0, 255), rgb(255, 0, 0)); }
+.gradient2 { background:linear-gradient(rgb(255, 255, 255), rgb(4, 0, 255), rgb(255, 0, 0)); }
+
